@@ -1,0 +1,15 @@
+Benchmarking with epsilon = 5: 
+
+Final result of input 87: Status.Undecided, branches explored: 27738, max depth: 111, time spent: 1800.18 seconds
+Final result of input 88: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.04 seconds
+Final result of input 89: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 90: Status.Undecided, branches explored: 35747, max depth: 99, time spent: 1800.12 seconds
+Final result of input 91: Status.Undecided, branches explored: 47740, max depth: 64, time spent: 1800.09 seconds
+Final result of input 92: Status.Unsafe, branches explored: 25, max depth: 15, time spent: 1.04 seconds
+Final result of input 93: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.04 seconds
+Final result of input 94: Status.Undecided, branches explored: 33818, max depth: 109, time spent: 1800.05 seconds
+Final result of input 95: Status.Undecided, branches explored: 37466, max depth: 89, time spent: 1800.13 seconds
+Final result of input 96: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.03 seconds
+Final result of input 97: Status.Undecided, branches explored: 33157, max depth: 97, time spent: 1800.13 seconds
+Final result of input 98: Status.Undecided, branches explored: 46347, max depth: 81, time spent: 1800.07 seconds
+Final result of input 99: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.03 seconds

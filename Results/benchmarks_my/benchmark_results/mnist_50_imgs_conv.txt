@@ -1,0 +1,5 @@
+Benchmarking with:Timeout 3000 seconds 
+Model path: ./data/models_nnet/neurify/conv.nnet 
+
+Benchmarking with epsilon = 5.01: 
+

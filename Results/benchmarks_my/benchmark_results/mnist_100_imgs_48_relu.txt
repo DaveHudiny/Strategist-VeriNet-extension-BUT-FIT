@@ -1,0 +1,5 @@
+Benchmarking with:Timeout 60 seconds 
+Model path: ./data/models_nnet/neurify/mnist24.nnet 
+
+Benchmarking with epsilon = 1: 
+

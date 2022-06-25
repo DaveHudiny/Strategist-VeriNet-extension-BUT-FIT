@@ -1,0 +1,33 @@
+Benchmarking with:Timeout 180 seconds 
+Model path: ./data/models_nnet/cifar10_conv.nnet 
+
+Benchmarking with epsilon = 0.0003921568627450981: 
+
+Final result of input 8: Status.Safe, branches explored: 1, max depth: 0, time spent: 12.36 seconds
+Final result of input 9: Status.Safe, branches explored: 1, max depth: 0, time spent: 11.75 seconds
+Final result of input 10: Status.Safe, branches explored: 1, max depth: 0, time spent: 13.88 seconds
+Final result of input 11: Status.Safe, branches explored: 1, max depth: 0, time spent: 12.08 seconds
+Final result of input 12: Status.Safe, branches explored: 1, max depth: 0, time spent: 12.32 seconds
+Final result of input 13: Status.Safe, branches explored: 1, max depth: 0, time spent: 10.35 seconds
+Final result of input 14: Status.Safe, branches explored: 1, max depth: 0, time spent: 11.08 seconds
+Final result of input 15: Status.Safe, branches explored: 1, max depth: 0, time spent: 11.37 seconds
+Final result of input 16: Status.Safe, branches explored: 1, max depth: 0, time spent: 11.56 seconds
+Final result of input 17: Status.Safe, branches explored: 1, max depth: 0, time spent: 12.41 seconds
+Final result of input 18: Status.Safe, branches explored: 1, max depth: 0, time spent: 12.18 seconds
+Final result of input 19: Status.Safe, branches explored: 1, max depth: 0, time spent: 11.37 seconds
+Final result of input 20: Status.Safe, branches explored: 1, max depth: 0, time spent: 12.35 seconds
+Final result of input 21: Status.Safe, branches explored: 1, max depth: 0, time spent: 12.30 seconds
+Final result of input 22: Status.Safe, branches explored: 1, max depth: 0, time spent: 12.71 seconds
+Final result of input 23: Status.Safe, branches explored: 1, max depth: 0, time spent: 11.83 seconds
+Final result of input 24: Status.Safe, branches explored: 1, max depth: 0, time spent: 12.15 seconds
+Final result of input 25: Status.Safe, branches explored: 1, max depth: 0, time spent: 11.80 seconds
+Final result of input 26: Status.Safe, branches explored: 1, max depth: 0, time spent: 12.98 seconds
+Final result of input 27: Status.Safe, branches explored: 1, max depth: 0, time spent: 13.40 seconds
+Final result of input 28: Status.Safe, branches explored: 1, max depth: 0, time spent: 12.65 seconds
+Final result of input 29: Status.Safe, branches explored: 1, max depth: 0, time spent: 12.08 seconds
+Final result of input 30: Status.Safe, branches explored: 1, max depth: 0, time spent: 12.44 seconds
+Final result of input 31: Status.Safe, branches explored: 1, max depth: 0, time spent: 13.12 seconds
+Final result of input 32: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 12.65 seconds
+Final result of input 33: Status.Safe, branches explored: 1, max depth: 0, time spent: 11.15 seconds
+Final result of input 34: Status.Safe, branches explored: 1, max depth: 0, time spent: 11.93 seconds
+Final result of input 35: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 11.25 seconds

@@ -1,0 +1,28 @@
+Benchmarking with:Timeout 900 seconds 
+Model path: ./data/models_nnet/ffnnTANH__PGDK_w_0.1_6_500.nnet 
+
+Benchmarking with epsilon = 0.03: 
+
+Final result of input 66: Status.Undecided, branches explored: 5271, max depth: 231, time spent: 900.36 seconds
+Final result of input 67: Status.Undecided, branches explored: 15269, max depth: 18, time spent: 900.08 seconds
+Final result of input 68: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.14 seconds
+Final result of input 69: Status.Undecided, branches explored: 10213, max depth: 44, time spent: 900.25 seconds
+Final result of input 70: Status.Undecided, branches explored: 9182, max depth: 73, time spent: 900.32 seconds
+Final result of input 71: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.14 seconds
+Final result of input 72: Status.Undecided, branches explored: 9075, max depth: 144, time spent: 900.36 seconds
+Final result of input 73: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.14 seconds
+Final result of input 74: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.13 seconds
+Final result of input 75: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.13 seconds
+Final result of input 76: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.13 seconds
+Final result of input 77: Status.Undecided, branches explored: 5281, max depth: 220, time spent: 900.33 seconds
+Final result of input 78: Status.Undecided, branches explored: 10799, max depth: 92, time spent: 900.17 seconds
+Final result of input 79: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.14 seconds
+Final result of input 80: Status.Undecided, branches explored: 10431, max depth: 41, time spent: 900.19 seconds
+Final result of input 81: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.16 seconds
+Final result of input 82: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.12 seconds
+Final result of input 83: Status.Undecided, branches explored: 10441, max depth: 23, time spent: 900.29 seconds
+Final result of input 84: Status.Undecided, branches explored: 7861, max depth: 180, time spent: 900.27 seconds
+Final result of input 85: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.16 seconds
+Final result of input 86: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.12 seconds
+Final result of input 87: Status.Safe, branches explored: 7897, max depth: 15, time spent: 615.57 seconds
+Final result of input 88: Status.Undecided, branches explored: 10444, max depth: 16, time spent: 900.24 seconds

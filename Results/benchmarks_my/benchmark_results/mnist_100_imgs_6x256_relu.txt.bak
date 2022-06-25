@@ -1,0 +1,6 @@
+Benchmarking with:Timeout 3600 seconds 
+Model path: ./data/marabou/mnist6x256.nnet 
+
+Benchmarking with epsilon = 5: 
+
+Final result of input 5: Status.Underflow, branches explored: 510, max depth: 25, time spent: 23.94 seconds

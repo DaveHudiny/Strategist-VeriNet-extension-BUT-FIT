@@ -1,0 +1,7 @@
+Benchmarking with:Timeout 1200 seconds 
+Model path: ./data/models_nnet/ffnnSIGMOID__PGDK_w_0.1_6_500.nnet 
+
+Benchmarking with epsilon = 0.02: 
+
+Final result of input 75: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.28 seconds
+Final result of input 76: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.11 seconds

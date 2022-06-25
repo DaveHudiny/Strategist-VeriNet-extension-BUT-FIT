@@ -1,0 +1,51 @@
+Benchmarking with:Timeout 900 seconds 
+Model path: ./data/models_nnet/neurify/mnist50.nnet 
+
+Benchmarking with epsilon = 10: 
+
+Final result of input 65: Status.Safe, branches explored: 15993, max depth: 18, time spent: 148.32 seconds
+Final result of input 66: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.03 seconds
+Final result of input 67: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 68: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 69: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 70: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 71: Status.Safe, branches explored: 3, max depth: 1, time spent: 0.14 seconds
+Final result of input 72: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.03 seconds
+Final result of input 73: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 74: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 75: Status.Safe, branches explored: 5, max depth: 2, time spent: 0.12 seconds
+Final result of input 76: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.04 seconds
+Final result of input 77: Status.Safe, branches explored: 15, max depth: 4, time spent: 0.19 seconds
+Final result of input 78: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.03 seconds
+Final result of input 79: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 80: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 81: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 82: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 83: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 84: Status.Safe, branches explored: 815, max depth: 14, time spent: 7.18 seconds
+Final result of input 85: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.03 seconds
+Final result of input 86: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 87: Status.Safe, branches explored: 3693, max depth: 33, time spent: 46.24 seconds
+Final result of input 88: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.03 seconds
+Final result of input 89: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 90: Status.Undecided, branches explored: 54055, max depth: 41, time spent: 900.07 seconds
+Final result of input 91: Status.Safe, branches explored: 3363, max depth: 19, time spent: 28.84 seconds
+Final result of input 92: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 93: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 94: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 95: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 96: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 97: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 98: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+Final result of input 99: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.02 seconds
+
+Time spent in solver: 1131.6646888256073
+Total number of images verified as safe: 8
+Safe images: [65, 70, 71, 75, 77, 84, 87, 91]
+Total number of images verified as unsafe: 26
+Unsafe images: [66, 67, 68, 69, 72, 73, 74, 76, 78, 79, 80, 81, 82, 83, 85, 86, 88, 89, 92, 93, 94, 95, 96, 97, 98, 99]
+Total number of images timed-out: 1
+Timed-out images: [90]
+Total number of images with underflow: 0
+Underflow images: []
+

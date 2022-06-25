@@ -23,7 +23,6 @@ The results of the experiments strongly depend on the HW used. Specifically, the
   * RAM: 16 GB DDR4
   * GPU: GTX 1660 with 6 GB GDDR5
 
-
 ## Source of NN models
 
 All networks were taken from the default VeriNet (see https://github.com/vas-group-imperial/VeriNet-OpenSource) and Marabou (see https://github.com/NeuralNetworkVerification/Marabou).
@@ -37,4 +36,3 @@ For plotting you can use scripts:
   * reader784.py: creates real image from MNIST raw format.
     * -i <file>: file of 784 MNIST pixels. 
     * -o <file>: file for output. It prefers files with extension .png
-

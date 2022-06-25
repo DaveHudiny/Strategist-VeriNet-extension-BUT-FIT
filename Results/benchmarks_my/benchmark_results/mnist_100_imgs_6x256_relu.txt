@@ -1,0 +1,16 @@
+Benchmarking with:Timeout 3600 seconds 
+Model path: ./data/marabou/mnist6x256.nnet 
+
+Benchmarking with epsilon = 5: 
+
+Final result of input 5: Status.Underflow, branches explored: 523, max depth: 26, time spent: 20.35 seconds
+Final result of input 6: Status.Undecided, branches explored: 92781, max depth: 51, time spent: 3600.13 seconds
+Final result of input 7: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.05 seconds
+Final result of input 8: Status.Undecided, branches explored: 41103, max depth: 140, time spent: 3600.17 seconds
+Final result of input 9: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.06 seconds
+Final result of input 10: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.04 seconds
+Final result of input 11: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.03 seconds
+Final result of input 12: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.05 seconds
+Final result of input 13: Status.Unsafe, branches explored: 1, max depth: 0, time spent: 0.04 seconds
+Final result of input 14: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.03 seconds
+Final result of input 15: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.04 seconds

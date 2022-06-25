@@ -1,0 +1,12 @@
+Benchmarking with:Timeout 900 seconds 
+Model path: ./data/models_nnet/ffnnTANH__PGDK_w_0.1_6_500.nnet 
+
+Benchmarking with epsilon = 0.03: 
+
+Final result of input 89: Status.Undecided, branches explored: 9593, max depth: 53, time spent: 900.43 seconds
+Final result of input 90: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.14 seconds
+Final result of input 91: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.13 seconds
+Final result of input 92: Status.Undecided, branches explored: 4359, max depth: 321, time spent: 900.75 seconds
+Final result of input 93: Status.Undecided, branches explored: 7935, max depth: 109, time spent: 900.17 seconds
+Final result of input 94: Status.Safe, branches explored: 1, max depth: 0, time spent: 0.15 seconds
+Final result of input 95: Status.Undecided, branches explored: 10867, max depth: 50, time spent: 900.21 seconds
