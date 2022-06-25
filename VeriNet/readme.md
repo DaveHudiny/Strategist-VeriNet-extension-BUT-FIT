@@ -30,6 +30,7 @@ Simply uncomment the strategy you want to use and comment the strategy you do no
 ## Extension authors
 
 David Hudák: xhudak03@vutbr.cz
+
 Milan Češka (bachelor thesis supervisor)
 
 # VeriNet Open Source
