@@ -1,24 +1,22 @@
 # VeriNet extension
 
-This folder contains strategist extension created while working on bachelor thesis at BUT FIT.
-
-We have not removed any content created by original authors.
+This folder contains strategist extension created while working on bachelor thesis at BUT FIT. We have not removed any content created by original authors. 
 
 After extension text you can find original text readme.md created by VeriNet authors.
 
 
 ## Codes and models
 
-We extended original VeriNet project from: https://github.com/vas-group-imperial/VeriNet-OpenSource
+We created extension for original VeriNet project from: https://github.com/vas-group-imperial/VeriNet-OpenSource
 
 We took few NNet models from Marabou repository: https://github.com/NeuralNetworkVerification/Marabou
 
-We created files: 
+The extension contains new files: 
 $ ./src/algorithm/splitmans.py 
 $ ./src/algorithm/strategist.py 
 $ ./script.sh.
 
-We also created few benchmarks in this folder, which are strongly inspired by default benchmarks.
+We also created few benchmark scripts in this folder, which are strongly inspired by default benchmarks.
 
 ## Usage
 
@@ -32,7 +30,7 @@ Simply uncomment the strategy you want to use and comment the strategy you do no
 ## Extension authors
 
 David Hudák: xhudak03@vutbr.cz
-Milan Češka
+Milan Češka (bachelor thesis supervisor)
 
 # VeriNet Open Source
 
